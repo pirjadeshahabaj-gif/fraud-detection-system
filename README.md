@@ -544,7 +544,7 @@ For issues and questions:
 
 ---
 
-**Made with ❤️ by the Fraud Detection Team**
+**Made by the shahabaj pirjade**
 
 **Last Updated:** July 1, 2026  
 **Version:** 1.0.0  
