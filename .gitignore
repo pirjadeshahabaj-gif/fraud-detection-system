@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# ML Models
+models/
+*.pkl
+*.joblib
+
+# Data
+data/
+*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+
+# MLflow
+mlruns/
+.mlflow/
+
+# Tests
+.pytest_cache/
+.coverage
